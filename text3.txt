@@ -1,1 +1,2 @@
 Aquest és un archiu de text pel git-exercici3.
+Modificació per la branca master.
