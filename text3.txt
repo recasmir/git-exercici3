@@ -1,0 +1,1 @@
+Aquest és un archiu de text pel git-exercici3.
